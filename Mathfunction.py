@@ -3,6 +3,9 @@ def Addition(x,y):
     #print(round(float(x)+float(y),1))
     return round(float(x) + float(y), 1)
 
+def Ajay:
+    print("Ajay")
+
 def Subtraction(x,y):
     #print('Subtraction function')
     #print(round(float(x)-float(y),1))
